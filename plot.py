@@ -12,6 +12,7 @@ line_style = dict( marker=".",
         linestyle='solid',
         linewidth=5,)
 def plot_trajectory(x_t, y_t):
+        plt.figure()
         plt.plot(x_t,y_t, color='#afc431', **line_style)
         plt.title('Horizontal distance(m) vs Vertical distance(m)')
         plt.xlabel('Horizontal Distance (m)')
@@ -49,7 +50,6 @@ def plot_trajectory_comparison(x_nodrag, y_nodrag,x_wdrag,y_wdrag):
 
 
 def optimization_plots(angles, ranges):
-
         plt.figure()
         plt.plot(angles, ranges)
         plt.xlabel("Launch Angle (degrees)")
@@ -85,7 +85,6 @@ def plot_velocity(time, velocity):
         plt.grid(True)    
 
 def acceleration_vs_time(t, acceleration_x, acceleration_y):
-        plt.figure()
         fig, axes = plt.subplots(1, 2, figsize=(10, 4))
 
 

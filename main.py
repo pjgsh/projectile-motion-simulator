@@ -144,7 +144,7 @@ else:
 )
     
 plot_trajectory(x_position, y_position)
-plot_axis_vs_time(times, x_position,y_position)
+plot_axis_vs_time(times, x_position,y_position) 
 plot_velocity(times,velocity)
 velocity_parameters(times, velocity)
 acceleration_vs_time(times, acceleration_x, acceleration_y)
