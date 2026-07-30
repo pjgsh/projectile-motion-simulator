@@ -203,37 +203,37 @@ Cross-sectional Area: 0.0042 m²
 
 ## Streamlit Interface
 
-![Streamlit Interface](images/app_interface.png)
+![Streamlit Interface](app_interface.png)
 
 ---
 
 ## Projectile Trajectory
 
-![Trajectory](images/trajectory.png)
+![Trajectory](trajectory.png)
 
 ---
 
 ## Drag vs. No-Drag Comparison
 
-![Drag Comparison](images/drag_comparison.png)
+![Drag Comparison](drag_comparison.png)
 
 ---
 
 ## Launch Angle Optimization
 
-![Optimization](images/optimization.png)
+![Optimization](optimization.png)
 
 ---
 
 ## Velocity Analysis
 
-![Velocity](images/velocity.png)
+![Velocity](velocity.png)
 
 ---
 
 ## Acceleration Analysis
 
-![Acceleration](images/acceleration.png)
+![Acceleration](acceleration.png)
 
 ---
 
