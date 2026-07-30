@@ -204,31 +204,31 @@ Cross-sectional Area: 0.0042 m²
 
 ## Projectile Trajectory
 
-![Trajectory](images\trajectory.png)
+![Trajectory](images/trajectory.png)
 
 ---
 
 ## Drag vs. No-Drag Comparison
 
-![Drag Comparison](images\drag_comparison.png)
+![Drag Comparison](images/drag_comparison.png)
 
 ---
 
 ## Launch Angle Optimization
 
-![Optimization](images\optimization.png)
+![Optimization](images/optimization.png)
 
 ---
 
 ## Velocity Analysis
 
-![Velocity](images\velocity.png)
+![Velocity](images/velocity.png)
 
 ---
 
 ## Acceleration Analysis
 
-![Acceleration](images\acceleration.png)
+![Acceleration](images/acceleration.png)
 
 ---
 
