@@ -68,36 +68,31 @@ The project includes a Streamlit application that allows users to:
 
 Projectile motion is solved analytically using the kinematic equations
 
-\[
-x(t)=v_0\cos(\theta)t
-\]
+$$ x(t) = v_0 \cos(\theta)t $$
 
-\[
-y(t)=y_0+v_0\sin(\theta)t-\frac{1}{2}gt^2
-\]
+$$ y(t) = y_0 + v_0 \sin(\theta)t - \frac{1}{2}gt^2 $$
 
 where
 
-- \(v_0\) = initial velocity
-- \(\theta\) = launch angle
-- \(g\) = gravitational acceleration
-
+- $v_0$ = initial velocity
+- $\theta$ = launch angle
+- $g$ = gravitational acceleration
 ---
 
 ### With Aerodynamic Drag
 
 Drag force is modeled as
 
-\[
-F_D=\frac12\rho C_DAv^2
-\]
+Drag force is modeled as
+
+$$ F_D = \frac{1}{2}\rho C_D A v^2 $$
 
 where
 
-- \(\rho\) = air density
-- \(C_D\) = drag coefficient
-- \(A\) = cross-sectional area
-- \(v\) = instantaneous speed
+- $\rho$ = air density
+- $C_D$ = drag coefficient
+- $A$ = cross-sectional area
+- $v$ = instantaneous speed
 
 The equations of motion are solved numerically using **Euler Integration**.
 
