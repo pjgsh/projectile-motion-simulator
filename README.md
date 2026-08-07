@@ -80,9 +80,6 @@ where
 ---
 
 ### With Aerodynamic Drag
-
-Drag force is modeled as
-
 Drag force is modeled as
 
 $$ F_D = \frac{1}{2}\rho C_D A v^2 $$
