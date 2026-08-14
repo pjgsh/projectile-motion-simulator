@@ -195,7 +195,7 @@ Cross-sectional Area: 0.0042 m²
 
 ## Streamlit Interface
 
-![Streamlit Interface](app_interface.png)
+![Streamlit Interface](images/streamlit.png)
 
 ---
 
