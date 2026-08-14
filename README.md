@@ -134,7 +134,7 @@ PROJECTILE_MOTION_SIMULATOR/
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Projectile-Motion-Simulator.git
+git clone https://github.com/pjgsh/Projectile-Motion-Simulator.git
 ```
 
 Navigate into the project directory
