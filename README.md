@@ -1,6 +1,6 @@
 # 🚀 Projectile Motion Simulator
 
-An interactive Python-based projectile motion simulator that models the trajectory of a projectile **with and without aerodynamic drag**. The project combines analytical physics, numerical methods, and data visualization to simulate realistic projectile motion and analyze flight performance.
+Python-based projectile motion simulator that models the trajectory of a projectile **with and without aerodynamic drag**. The project combines analytical physics, numerical methods, and data visualization to simulate realistic projectile motion and analyze flight performance.
 
 The simulator can be used through either a **command-line interface (CLI)** or an interactive **Streamlit web application**.
 
